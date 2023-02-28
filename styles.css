@@ -35,10 +35,10 @@ img
 		border:10px solid  #FFFF99;
 	}
 	
-	.us {border: 0px solid #990000;
+	.us {border: 0px ;
 		border-radius:0px;
 		
-		width: 300px;
+		width: 320px;
 		height:200px;
 
 	}
