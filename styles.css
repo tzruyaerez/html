@@ -37,8 +37,8 @@ img
 	
 	.us {border: 0px ;
 		border-radius:0px;
-		
-		width: 320px;
+		border:10px solid  #669933;
+		width: 280px;
 		height:200px;
 
 	}
